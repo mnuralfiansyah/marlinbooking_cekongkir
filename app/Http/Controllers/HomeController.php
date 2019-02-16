@@ -25,4 +25,16 @@ class HomeController extends Controller
     {
         return view('home');
     }
+
+    public function testing_getkraken()
+    {
+        return true;
+    }
+
+
+
+    public function ini_punya_edit1()
+    {
+        return true;
+    }
 }
