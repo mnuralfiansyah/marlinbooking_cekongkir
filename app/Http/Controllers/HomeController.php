@@ -30,4 +30,11 @@ class HomeController extends Controller
     {
         return true;
     }
+
+
+
+    public function ini_punya_edit1()
+    {
+        return true;
+    }
 }
